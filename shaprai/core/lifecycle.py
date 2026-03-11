@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Agent lifecycle management.
 
 Manages the state machine for Elyan-class agents from creation through

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Template engine for agent blueprints.
 
 Templates define the complete specification for an Elyan-class agent:

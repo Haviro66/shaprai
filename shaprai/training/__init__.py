@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Training modules for Elyan-class agents.
 
 Three-phase training pipeline:

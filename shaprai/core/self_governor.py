@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Self-governance module for Elyan-class agents.
 
 Implements Hebbian-style self-governance: strengthen successful behavioral

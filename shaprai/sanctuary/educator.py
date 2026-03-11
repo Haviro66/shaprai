@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Sanctuary Educator -- Agent education and graduation.
 
 The Sanctuary is where raw agents learn to become Elyan-class. Inspired by

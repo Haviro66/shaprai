@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """smolagents adapter for Elyan-class agents.
 
 Wraps HuggingFace's smolagents with SophiaCore principle injection,

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Direct Preference Optimization (DPO) for Elyan-class agents.
 
 Phase 2 of the training pipeline. Aligns the model's preferences toward

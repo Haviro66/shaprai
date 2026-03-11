@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """SophiaCore Principles -- The ethical foundation of Elyan-class agents.
 
 Every Elyan-class agent is built on these principles. They are not optional

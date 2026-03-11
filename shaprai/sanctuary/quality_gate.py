@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Quality gate for Elyan-class agent certification.
 
 Agents must pass through the quality gate to graduate from the Sanctuary.

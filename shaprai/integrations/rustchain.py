@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """RustChain/RTC integration for agent tokenomics.
 
 Connects agents to the RustChain network for wallet management,

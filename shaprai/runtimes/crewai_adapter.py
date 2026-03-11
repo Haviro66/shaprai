@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """CrewAI adapter for Elyan-class agents.
 
 Wraps CrewAI's Agent and Crew classes with SophiaCore principle injection,

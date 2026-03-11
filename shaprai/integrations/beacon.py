@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Beacon integration for agent discovery and heartbeat.
 
 Beacon-skill provides SEO and agent discovery services. Each deployed

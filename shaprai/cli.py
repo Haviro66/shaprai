@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """ShaprAI CLI -- Agent lifecycle management from the command line."""
 
 from __future__ import annotations

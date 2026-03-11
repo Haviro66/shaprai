@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """HuggingFace integration for model management.
 
 Handles downloading, caching, and loading base models from the

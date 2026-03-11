@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Fleet management for Elyan-class agents.
 
 Provides a unified view of all managed agents, their states, health,

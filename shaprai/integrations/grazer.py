@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Elyan Labs — https://github.com/Scottcjn/shaprai
 """Grazer integration for content discovery and engagement.
 
 Grazer-skill enables agents to discover relevant content across platforms
